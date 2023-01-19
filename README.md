@@ -1,4 +1,7 @@
 # Movies (ReactJS)
+Projeto em React somente com o objetivo de aperfeiçoar a utilização de API's.<br>
+Link de acesso: 
+
 Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
