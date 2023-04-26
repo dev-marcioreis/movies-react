@@ -6,7 +6,7 @@ Projeto em React somente com o objetivo de aperfeiçoar a utilização de API's.
 
 ## 🚀 Finalizado.
 
-## 📋 Técnologias
+## 📋 Tecnologias
 React
 
 ## ✒️ Autor
